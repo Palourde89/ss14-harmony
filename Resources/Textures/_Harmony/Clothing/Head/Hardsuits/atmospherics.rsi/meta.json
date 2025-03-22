@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Made by Palourde. Vox states made by Flareguy at commit https://github.com/space-wizards/space-station-14/commit/e4a516514f37d26708e676122eb7c6a95f37b5e3.",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "icon"
+    },
+    {
+      "name": "icon-unshaded"
+    },
+    {
+      "name": "icon-flash"
+    },
+    {
+      "name": "light-overlay"
+    },
+    {
+      "name": "equipped-head",
+      "directions": 4
+    },
+    {
+      "name": "equipped-head-light",
+      "directions": 4
+    },
+    {
+      "name": "equipped-head-unshaded",
+      "directions": 4
+    },
+    {
+      "name": "equipped-head-vox",
+      "directions": 4
+    },
+    {
+      "name": "equipped-head-light-vox",
+      "directions": 4
+    },
+    {
+      "name": "equipped-head-unshaded-vox",
+      "directions": 4
+    }
+  ]
+}
