@@ -101,7 +101,6 @@
 #start of Harmony change
     #sprite: Clothing/Head/Hardsuits/spatiohelm.rsi
     sprite: _Harmony/Clothing/Head/Hardsuits/spatiohelm.rsi
-#end of Harmony change
     #layers:
     #- state: icon
     #- state: icon-unshaded
@@ -110,6 +109,7 @@
       #visible: false
       #shader: unshaded
       #map: [ "light" ]
+#end of Harmony change
   - type: HandheldLight
     addPrefix: false
   - type: ToggleableLightVisuals
@@ -192,7 +192,6 @@
 #start of Harmony change
     #sprite: Clothing/Head/Hardsuits/goliathhelm.rsi
     sprite: _Harmony/Clothing/Head/Hardsuits/goliathhelm.rsi
-#end of Harmony change
     #layers:
     #- state: icon
     #- state: icon-unshaded
@@ -201,6 +200,7 @@
       #visible: false
       #shader: unshaded
       #map: [ "light" ]
+#end of Harmony change
   - type: HandheldLight
     addPrefix: false
   - type: ToggleableLightVisuals
