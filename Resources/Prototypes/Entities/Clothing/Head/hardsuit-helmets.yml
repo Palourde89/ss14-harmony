@@ -101,7 +101,7 @@
 #start of Harmony change
     #sprite: Clothing/Head/Hardsuits/spatiohelm.rsi
     sprite: _Harmony/Clothing/Head/Hardsuits/spatiohelm.rsi
-   #the following part only affects the icon and had no effect
+#end of Harmony change
     #layers:
     #- state: icon
     #- state: icon-unshaded
@@ -131,9 +131,7 @@
       - state: equipped-head-unshaded-vox
         shader: unshaded
   - type: PointLight
-    #added a color to the flashlight to match the sprite
-    color: "#adffe6"
-#end of Harmony change
+    color: "#adffe6"     #Harmony : added a color to the flashlight to match the sprite
     radius: 6
   - type: PressureProtection
     highPressureMultiplier: 0.72
@@ -153,6 +151,7 @@
   #- type: Clothing
    #sprite: Clothing/Head/Hardsuits/salvage.rsi
     sprite: _Harmony/Clothing/Head/Hardsuits/salvage.rsi
+#end of Harmony change
   - type: HandheldLight
     addPrefix: false
   - type: ToggleableLightVisuals
@@ -177,8 +176,7 @@
     highPressureMultiplier: 0.525
     lowPressureMultiplier: 1000
   - type: PointLight
-  #added a color to the flashlight to match the sprite
-    color: "#fff5d9"
+    color: "#fff5d9" #Harmony : added a color to the flashlight to match the sprite
     radius: 7
     energy: 3
 
@@ -194,7 +192,7 @@
 #start of Harmony change
     #sprite: Clothing/Head/Hardsuits/goliathhelm.rsi
     sprite: _Harmony/Clothing/Head/Hardsuits/goliathhelm.rsi
-  #the following part only affects the icon and had no effect
+#end of Harmony change
     #layers:
     #- state: icon
     #- state: icon-unshaded
@@ -224,9 +222,7 @@
       - state: equipped-head-unshaded-vox
         shader: unshaded
   - type: PointLight
-  #added a color to the flashlight to match the sprite
-    color: "#adffe6"
-#end of Harmony change
+    color: "#adffe6" #Harmony : added a color to the flashlight to match the sprite
     radius: 6
   - type: PressureProtection
     highPressureMultiplier: 0.72
@@ -440,6 +436,7 @@
   #- type: Clothing
     #sprite: Clothing/Head/Hardsuits/luxury.rsi
     sprite: _Harmony/Clothing/Head/Hardsuits/luxury.rsi
+#end of Harmony change
   - type: HandheldLight
     addPrefix: false
   - type: ToggleableLightVisuals
@@ -464,9 +461,7 @@
     highPressureMultiplier: 0.525
     lowPressureMultiplier: 1000
   - type: PointLight
-    #added a color to the flashlight to match the sprite
-    color: "#adffe6"
-#end of Harmony change
+    color: "#adffe6" #Harmony : added a color to the flashlight to match the sprite
     radius: 7
     energy: 3
 
