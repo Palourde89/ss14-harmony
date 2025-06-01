@@ -1126,7 +1126,7 @@
 #Clown Hardsuit
 - type: entity
 # parent: ClothingHeadHelmetHardsuitSecurity
-  parent: [ ClothingHeadHardsuitBase, ClothingHeadSuitWithLightBase ] #Harmony change : update parent because of the security hardsuits repsprite
+  parent: [ ClothingHeadHardsuitBase, ClothingHeadSuitWithLightBase ] #Harmony change : update parent because of the security hardsuits resprite
   id: ClothingHeadHelmetHardsuitClown
   name: clown hardsuit helmet
   description: A clown hardsuit helmet.
@@ -1142,7 +1142,7 @@
 #Mime Hardsuit
 - type: entity
 # parent: ClothingHeadHelmetHardsuitSecurity
-  parent: [ ClothingHeadHardsuitBase, ClothingHeadSuitWithLightBase ] #Harmony change : update parent because of the security hardsuits repsprite
+  parent: [ ClothingHeadHardsuitBase, ClothingHeadSuitWithLightBase ] #Harmony change : update parent because of the security hardsuits resprite
   id: ClothingHeadHelmetHardsuitMime
   name: mime hardsuit helmet
   description: A mime hardsuit helmet.
